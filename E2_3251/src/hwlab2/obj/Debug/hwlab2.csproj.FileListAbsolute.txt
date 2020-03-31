@@ -1,0 +1,11 @@
+D:\新建文件夹\hwlab2\hwlab2\bin\Debug\hwlab2.exe.config
+D:\新建文件夹\hwlab2\hwlab2\bin\Debug\hwlab2.exe.manifest
+D:\新建文件夹\hwlab2\hwlab2\bin\Debug\hwlab2.application
+D:\新建文件夹\hwlab2\hwlab2\bin\Debug\hwlab2.exe
+D:\新建文件夹\hwlab2\hwlab2\bin\Debug\hwlab2.pdb
+D:\新建文件夹\hwlab2\hwlab2\obj\Debug\hwlab2.csprojAssemblyReference.cache
+D:\新建文件夹\hwlab2\hwlab2\obj\Debug\hwlab2.csproj.CoreCompileInputs.cache
+D:\新建文件夹\hwlab2\hwlab2\obj\Debug\hwlab2.exe.manifest
+D:\新建文件夹\hwlab2\hwlab2\obj\Debug\hwlab2.application
+D:\新建文件夹\hwlab2\hwlab2\obj\Debug\hwlab2.exe
+D:\新建文件夹\hwlab2\hwlab2\obj\Debug\hwlab2.pdb
