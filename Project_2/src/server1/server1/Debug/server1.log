@@ -1,0 +1,10 @@
+﻿  server1.cpp
+d:\新建文件夹\server1\server1\server1.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+d:\新建文件夹\server1\server1\server1.cpp(200): warning C4018: “<”: 有符号/无符号不匹配
+d:\新建文件夹\server1\server1\server1.cpp(61): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  d:\windows kits\10\include\10.0.17134.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
+d:\新建文件夹\server1\server1\server1.cpp(167): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  d:\windows kits\10\include\10.0.17134.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
+d:\新建文件夹\server1\server1\server1.cpp(291): warning C4244: “参数”: 从“__int64”转换到“intptr_t”，可能丢失数据
+d:\新建文件夹\server1\server1\server1.cpp(292): warning C4244: “参数”: 从“__int64”转换到“intptr_t”，可能丢失数据
+  server1.vcxproj -> D:\新建文件夹\server1\Debug\server1.exe
