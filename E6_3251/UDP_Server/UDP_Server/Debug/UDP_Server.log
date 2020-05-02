@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\新建文件夹\udp_server\udp_server\源.cpp(100): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“SOCKADDR_IN”
+d:\新建文件夹\udp_server\udp_server\源.cpp(63): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  d:\windows kits\10\include\10.0.17134.0\um\winsock2.h(1848): note: 参见“inet_ntoa”的声明
+  UDP_Server.vcxproj -> D:\新建文件夹\UDP_Server\Debug\UDP_Server.exe
